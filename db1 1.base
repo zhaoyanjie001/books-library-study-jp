@@ -1,0 +1,27 @@
+summaries:
+  "": |-
+    values.filter(!value.isType("null
+    ")).length
+  Filled: values.filter(!value.isType("null")).length
+  Unique: values.unique().length
+  Empty: values.filter(value.isType("null")).length
+formulas:
+  未命名: ""
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.basename.startsWith("N2 0")
+    order:
+      - file.basename
+    sort:
+      - property: file.name
+        direction: ASC
+    summaries:
+      file.backlinks: ""
+      formula.未命名 2: Empty
+    columnSize:
+      file.backlinks: 292
+  - type: table
+    name: 视图

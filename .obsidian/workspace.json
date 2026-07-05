@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "4a4d3621c34394e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "487024e443f582a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5979a0e95b4f163a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-日常总结/00-计划/N5学习内容/场景对话.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "场景对话"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "299dda38c81dcd81",
+    "type": "split",
+    "children": [
+      {
+        "id": "375a8fc2cd8d3fed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b2aaf32f846701a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "744d3e6cf0912de6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "取决于",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "090e6266caec0dc0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "right": {
+    "id": "f38c9311ccc0f956",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b027aa6d31d283d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e288858970d5cd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日语语法/01-语法/中级语法/N2 001-1～際（に）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "N2 001-1～際（に） 的反向链接列表"
+            }
+          },
+          {
+            "id": "ba7de19c1bee44e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日语语法/00-学习路线/分類/動詞普通形.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "動詞普通形 的出链列表"
+            }
+          },
+          {
+            "id": "4da8059903ce5363",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "09b67053a758bdc6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e1c9ae9beb59a66e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日语语法/01-语法/中级语法/N2 001-1～際（に）.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "N2 001-1～際（に） 的大纲"
+            }
+          },
+          {
+            "id": "d1615cd9e6a1ccb2",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "ec2f92468a61fe98",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "ded104dabb98084b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "juggl:Juggl global graph": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5979a0e95b4f163a",
+  "lastOpenFiles": [
+    "config.yaml~",
+    "07-日常总结/00-计划/N5.md",
+    "07-日常总结/00-计划/N5学习内容/五十音图.md",
+    "07-日常总结/00-计划/N5学习内容/语法.md",
+    "07-日常总结/00-计划/N5学习内容/助词.md",
+    "07-日常总结/00-计划/N5学习内容/场景对话.md",
+    "07-日常总结/00-计划/N5学习内容/N5.md",
+    "07-日常总结/00-计划/N51.md",
+    "07-日常总结/00-计划/N5学习内容/N51.md",
+    "07-日常总结/00-计划/N5学习内容/单词.md",
+    "07-日常总结/00-计划/N5学习内容/数字.md",
+    "07-日常总结/00-计划/需求文档.md",
+    "07-日常总结/00-计划/N5学习内容",
+    "config.yaml",
+    "config.YAML",
+    "configure.YAML~",
+    "configure.YAML",
+    "07-日常总结/00-计划/configure.YAML",
+    "07-日常总结/00-计划/计划.md",
+    "07-日常总结/00-计划/需求文档",
+    "07-日常总结/00-计划/第一天.md",
+    "07-日常总结/00-计划/第一天",
+    "07-日常总结/00-计划",
+    "07-日常总结/01-单词/计划.md",
+    "07-日常总结/01-单词/content.md",
+    "07-日常总结/01-单词/contend.md",
+    "07-日常总结/01-单词/contend",
+    "07-日常总结/01-单词/限る.md",
+    "07-日常总结/01-单词/002.限る.md",
+    "07-日常总结/01-单词/001.ところ.md",
+    "07-日常总结/01-单词/ところ.md",
+    "日语语法/01-语法/中级语法-完全掌握.md",
+    "日语语法/01-语法/中级语法 まとめ.md",
+    "日语语法/01-语法/02-中级语法-完全掌握/N2 005-2～限り（は）.md",
+    "日语语法/01-语法/02-中级语法-完全掌握/N2 005-1～に限り.md",
+    "07-日常总结/01-单词/index.md",
+    "日语语法/01-语法/02-中级语法-完全掌握-IMGS/02-141.png",
+    "日语语法/01-语法/02-中级语法-完全掌握-IMGS/02-131.png",
+    "日语语法/01-语法/02-中级语法-完全掌握-IMGS/02-111.png",
+    "日语语法/01-语法/02-中级语法-完全掌握-IMGS/02-161.png",
+    "日语语法/02-单词/中级单词img/IMG_1694.PNG",
+    "日语语法/02-单词/中级单词img/IMG_1693.PNG",
+    "日语语法/02-单词/中级单词img/IMG_1692.PNG",
+    "日语语法/02-单词/中级单词img/IMG_1700.png",
+    "日语语法/02-单词/中级单词img/IMG_1701.png",
+    "日语语法/02-单词/中级单词img/IMG_1631.PNG",
+    "日语语法/00-学习路线/总纲.canvas",
+    "日语语法/06-快速复习/原始01/015 もしそうなら・たとえそうでも.canvas",
+    "日语语法/06-快速复习/原始01/016 ～だから（理由）.canvas",
+    "日语语法/06-快速复习/原始01/013 ～（話題）は.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas"
+  ]
+}

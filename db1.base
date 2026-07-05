@@ -1,0 +1,23 @@
+summaries:
+  "": values.filter(!value.isType("null")).length
+formulas:
+  未命名: ""
+views:
+  - type: table
+    name: 表格
+    groupBy:
+      property: file.backlinks
+      direction: ASC
+    order:
+      - file.name
+      - file.backlinks
+      - file.basename
+      - file.links
+    sort:
+      - property: formula.未命名 2
+        direction: ASC
+    summaries:
+      file.backlinks: ""
+      formula.未命名 2: Empty
+    columnSize:
+      file.backlinks: 409
