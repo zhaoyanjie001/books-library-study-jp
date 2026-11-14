@@ -1,9 +1,0 @@
-name: My Config
-version: 0.0.1
-schema: v1
-
-models:
-  - name: projects/671143782264
-    provider: gemini
-    model: 671143782264
-    apiKey: AQ.Ab8RN6IP66b3V007O7hGBLzBgW3VwLHDl2E-2ibTArSd7jY4xA
